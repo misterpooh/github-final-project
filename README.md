@@ -5,5 +5,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>t,</b> time period in years<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>r,</b> annual rate of interest<br/>
 <b>Output</b><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>simple interest</b> = p*t*r<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>simple interest</b> = p\*t\*r<br/>
 
